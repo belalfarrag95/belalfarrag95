@@ -1,76 +1,120 @@
-<h1 align="center">Hi, I'm Belal Farrag 👋</h1>
+<!-- HEADER ANIMATION -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Belal+Farrag;Data+Analyst;SQL+%7C+Power+BI+%7C+Tableau;Turning+Data+into+Business+Decisions&center=true&width=600&height=50">
+</p>
 
-<h3 align="center">Data Analyst | Power BI • SQL • Python • Excel</h3>
+<h1 align="center">👋 Hi, I'm Belal Farrag</h1>
+<h3 align="center">🚀 Data Analyst | Transforming Data into Powerful Insights</h3>
+
+---
+
+## 🔥 About Me
+💡 I don’t just analyze data… I **turn it into decisions that matter**  
+
+- 📊 Data Analyst with strong skills in **SQL, Excel, Power BI, Google Sheets & Tableau**
+- 🎓 Certified from **Google Data Analytics Professional Certificate**
+- 💼 1+ year experience as a **Data Analyst at Super M Soft**
+- 🌍 1+ year experience as a **Freelance Data Analyst**
+- 📈 Passionate about solving real-world business problems using data
+- ⚡ Always learning & pushing my limits in analytics
+
+---
+
+## 🧠 What I Actually Do
+✔️ Clean messy data & make it usable  
+✔️ Build dashboards that tell clear stories  
+✔️ Extract insights that drive business decisions  
+✔️ Turn numbers into strategies  
+
+---
+
+## 🛠️ Tech Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,git,github" />
+</p>
 
 <p align="center">
-  <em>Turning raw data into clear, actionable insights — one dashboard at a time.</em>
+  
+| Data Analysis | Visualization | Tools |
+|--------------|-------------|------|
+| SQL | Power BI | Git |
+| Excel | Tableau | GitHub |
+| Google Sheets | Dashboards | Data Cleaning |
+
 </p>
 
 ---
 
-## About Me
+## 🚀 Featured Projects
 
-- 📊 Data Analyst with a passion for business intelligence and data storytelling
-- 🔭 Currently building my portfolio with real-world dashboards and analysis projects
-- 🌱 Progressing through the **Google Data Analytics Professional Certificate**
-- 💼 Open to **Data Analyst** roles and **freelance BI projects**
-- 📍 Based in **Cairo, Egypt**
-- 🔗 Let's connect on [LinkedIn](https://www.linkedin.com/in/belal-farrag-b976b01a4/)
+### 📊 Sales Data Analysis
+- Cleaned & transformed raw sales data  
+- Built interactive dashboard in Power BI  
+- Generated actionable business insights  
 
 ---
 
-## Tech Stack
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-  <img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/DAX-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black" />
-</p>
+### 🧑‍💼 HR Analytics Dashboard
+- Analyzed employee data  
+- Identified key workforce trends  
+- Built visual storytelling dashboard  
 
 ---
 
-## Featured Projects
-
-| Project | Tools | Description |
-|---|---|---|
-| [Amazon HR Dashboard](https://github.com/belalfarrag95/Amazon-HR-Dashboard) | Power BI, DAX | HR analytics dashboard — attrition, gender pay gap & absenteeism analysis |
-| [Sales Data Analysis](https://github.com/belalfarrag95/Sales-Data-Analysis-Project-using-Excel-and-Power-BI) | Excel, Power BI | End-to-end sales analysis from raw data to interactive dashboard |
-| [Adidas Sales Analysis](https://github.com/belalfarrag95/Adidas-Sales-Data-Analysis-in-the-United-States-using-Excel) | Excel | Sales performance analysis across products, channels & US states (2020–2021) |
-| [Coca-Cola Sales 2021](https://github.com/belalfarrag95/Data-Analysis-Project-Coca-Cola-2021-USA) | Power BI | US market sales analysis with actionable business insights |
-| [Shipping Company Analysis](https://github.com/belalfarrag95/Shipping-Company-Data-Analysis) | Excel | Interactive Excel dashboard for shipping operations & KPIs |
-| [IMDb Top 250 Analysis](https://github.com/belalfarrag95/IMDB-Top-250-PowerBI-Analysis) | Python, Power BI | Web scraping + Power BI analysis of IMDb's top 250 films |
+### 🥤 Coca-Cola Sales Analysis (USA 2021)
+- Performed full data analysis process  
+- Built dashboards for performance tracking  
+- Delivered clear business recommendations  
 
 ---
 
-## GitHub Stats
+## 💼 Experience
+
+### 🏢 Data Analyst — Super M Soft
+- Worked on real datasets to extract insights  
+- Built dashboards used for decision-making  
+- Improved reporting processes  
+
+### 🌍 Freelance Data Analyst
+- Delivered multiple data analysis projects  
+- Worked with different datasets & business needs  
+- Built end-to-end analysis solutions  
+
+---
+
+## 🏆 Certifications
+- ✔️ Google Data Analytics Professional Certificate  
+- ✔️ SQL (DataCamp Track)  
+- ✔️ Data Analysis Projects Certification  
+
+---
+
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=belalfarrag95&show_icons=true&theme=default&hide_border=true&count_private=true" height="150"/>
-  &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=belalfarrag95&layout=compact&theme=default&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=belalfarrag95&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=belalfarrag95&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-## Certifications
-
-- 🎓 Google Data Analytics Professional Certificate *(in progress)*
-- 🎓 EraaSoft Academy — Data Analysis Track
-- 🎓 Cisco Data Analytics Essentials
+## 🌐 Connect With Me
+<p align="center">
+  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</p>
 
 ---
 
-## Let's Connect
+## 🧠 Mindset
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/belal-farrag-b976b01a4/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/belalfarrag95" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
+> “Data is not just numbers… it’s a story waiting to be told.”  
+
+---
+
+## 🔥 Final Touch
+⭐ If you like my work, don’t forget to star my repositories  
+🚀 Always open for opportunities in Data Analytics  
