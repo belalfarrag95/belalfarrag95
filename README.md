@@ -44,6 +44,8 @@ belal = {
 
 | # | Project | Tools | Description |
 |---|---------|-------|-------------|
+| 🏥  | [Healthcare Analytics Dashboard](https://github.com/belalfarrag95/healthcare-analytics-powerbi-dashboard) | Power BI · DAX | 5-page healthcare dashboard — 54,966 patient records with custom HTML/CSS visuals |
+| 🚴  | [Bike Sales Analytics Dashboard](https://github.com/belalfarrag95/-Bike-Sales-Analytics-Dashboard) | Power BI · DAX | 56K orders, $24.91M revenue — time intelligence measures & interactive category drill-down |
 | 🏢 | [HR Analytics Dashboard](https://github.com/belalfarrag95/HR-Analytics-Dashboard-PowerBI) | Power BI · DAX | 4-page HR report — 33.44% attrition, gender pay gap & performance analysis (311 employees) |
 | 📡 | [Telecom Egypt WE Customer Analytics](https://github.com/belalfarrag95/Telecom-Egypt-WE-Customer-Analytics-PowerBI) | Power BI · DAX | 3-page telecom dashboard — EGP 5.67M revenue, 10.7% churn rate (1,000 customers) |
 | 🥤 | [Coca-Cola US Retail Performance](https://github.com/belalfarrag95/Coca-Cola-US-Retail-Performance-PowerBI) | Power BI · DAX | $9M retail analytics across US states, regions & 4 retailers — 36% operating margin |
