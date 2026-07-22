@@ -44,6 +44,7 @@ belal = {
 
 | # | Project | Tools | Description |
 |---|---------|-------|-------------|
+| 📊 [HR Analytics Dashboard](https://github.com/belalfarrag95/hr-analytics-powerbi-dashboard) | Power BI \| DAX \| Star Schema | Attrition, compensation & performance analytics across 311 employees |
 | 🚴  | [Bike Sales Analytics Dashboard](https://github.com/belalfarrag95/-Bike-Sales-Analytics-Dashboard) | Power BI · DAX | 56K orders, $24.91M revenue — time intelligence measures & interactive category drill-down |
 | 🏥  | [Healthcare Analytics Dashboard](https://github.com/belalfarrag95/healthcare-analytics-powerbi-dashboard) | Power BI · DAX | 5-page healthcare dashboard — 54,966 patient records with custom HTML/CSS visuals |
 | 🏢 | [HR Analytics Dashboard](https://github.com/belalfarrag95/HR-Analytics-Dashboard-PowerBI) | Power BI · DAX | 4-page HR report — 33.44% attrition, gender pay gap & performance analysis (311 employees) |
