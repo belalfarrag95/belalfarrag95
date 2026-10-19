@@ -45,6 +45,8 @@ belal = {
 | # | Project | Tools | Description |
 |---|---------|-------|-------------|
 | 📋 | [Projects & Contracts Tracking Dashboard](https://github.com/belalfarrag95/projects-contracts-tracking-powerbi-dashboard) | Power BI · DAX | Arabic RTL dashboard — 25 projects, 69.4M contract value, deadline tracking & financial drill-down with a custom HTML/CSS landing page |
+| 🩺 | [Health Holding Compliance Dashboard](https://github.com/belalfarrag95/health-holding-compliance-powerbi-dashboard) | Power BI · DAX | Executive dashboard for Health Holding Co. — 307 criteria, tracer scopes & dark glassmorphic UI |
+| 🟢 | [Nour Down Performance Dashboard](https://github.com/belalfarrag95/nour-down-performance-powerbi-dashboard) | Power BI · DAX | Strategic & operational PMS dashboard for Nour Down Association — quarterly scorecards & KPIs |
 | 📊 | [HR Analytics Dashboard](https://github.com/belalfarrag95/hr-analytics-powerbi-dashboard) | Power BI · DAX | 311 employees, 33.44% attrition rate — Star Schema modeling & custom HTML/CSS visuals |
 | 🚴 | [Bike Sales Analytics Dashboard](https://github.com/belalfarrag95/-Bike-Sales-Analytics-Dashboard) | Power BI · DAX | 56K orders, $24.91M revenue — time intelligence measures & interactive category drill-down |
 | 🏥 | [Healthcare Analytics Dashboard](https://github.com/belalfarrag95/healthcare-analytics-powerbi-dashboard) | Power BI · DAX | 5-page healthcare dashboard — 54,966 patient records with custom HTML/CSS visuals |
