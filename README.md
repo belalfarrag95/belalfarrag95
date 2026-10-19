@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Profile_Views-Dynamic-008080?style=for-the-badge&logo=github" alt="Profile Views" />
+  <img src="https://api.countapi.xyz/hit/belalfarrag95/visits?color=008080&style=for-the-badge&logo=github" alt="Profile Views" />
   <img src="https://img.shields.io/github/followers/belalfarrag95?label=Followers&style=flat&color=6A0DAD" alt="Followers" />
 </p>
 
